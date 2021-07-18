@@ -1,5 +1,5 @@
 ### Hi there, I am Khizar Ali 👋
-<hr>
+
 - 🔭 I’m currently working as ML Engineer.
 - 🌱 I’m currently learning Backend Engineering.
 - 👯 I’m looking to collaborate with ML Engineers and Full Stack Developers.
