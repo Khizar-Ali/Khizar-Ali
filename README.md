@@ -1,8 +1,8 @@
 ### Hi there, I am Khizar Ali 👋
-
+<hr>
 - 🔭 I’m currently working as ML Engineer.
 - 🌱 I’m currently learning Backend Engineering.
-- 👯 I’m looking to collaborate with ML engineers and Full Stack Developers.
+- 👯 I’m looking to collaborate with ML Engineers and Full Stack Developers.
 <!--
 **Khizar-Ali/Khizar-Ali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
