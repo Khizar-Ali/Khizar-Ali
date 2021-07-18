@@ -1,5 +1,6 @@
-### <h1> Hi there, I am Khizar Ali 👋 </h1>
+### <h1> Hi 👋, I am Khizar Ali </h1>
 
+<h2> I t
 - 🔭 I’m currently working as ML Engineer.
 - 🌱 I’m currently learning Backend Engineering.
 - 👯 I’m looking to collaborate with ML Engineers and Full Stack Developers.
