@@ -22,6 +22,8 @@
 
 <p align="center">
 <a href="mailto:khizar.ali2800@gmail.com"><img src="https://img.shields.io/badge/-khizar.ali2800@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white%22"/></a>
+  
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=Khizar-Ali" alt="Khizar Ali" /> </p>
 
 <!--
 **Khizar-Ali/Khizar-Ali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
