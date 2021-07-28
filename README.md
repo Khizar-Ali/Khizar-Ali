@@ -21,6 +21,7 @@
 
 <p align="center">
 <a href="mailto:khizar.ali2800@gmail.com"><img src="https://img.shields.io/badge/-khizar.ali2800@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white%22"/></a>
+<a href="https://linkedin.com/in/khizarali"><img src="https://img.shields.io/badge/-Khizar%20Ali-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=Khizar-Ali" alt="Khizar Ali" /> </p>
 
