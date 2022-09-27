@@ -1,10 +1,9 @@
 ### <h1> Hi 👋, I am Khizar Ali </h1>
 
-<h3> I am a Developer and ML Engineer </h3>
-- 🔭 I’m currently working as ML Engineer.<br>
-- 🌱 I’m currently learning Backend Engineering.<br>
-- 👯 I’m looking to collaborate with ML Engineers and Full Stack Developers.<br>
-- 💬 Ask me about anything related to CS.
+<h3> I am a Software Engineer </h3>
+- 🔭 I’m currently working as a Backend Engineer.<br>
+- 👯 I’m looking to collaborate with Full Stack Developers.<br>
+
 
 ## Tech Stacks I use:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
